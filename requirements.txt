@@ -1,0 +1,13 @@
+
+---
+
+# `requirements.txt`
+
+For this project, you are only using Python built-in modules.
+
+So create:
+
+```text id="r3"
+requirements.txt
+
+# No external libraries required
